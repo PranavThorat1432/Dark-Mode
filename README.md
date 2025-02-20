@@ -41,6 +41,11 @@ This project demonstrates a **smooth Dark Mode toggle** using HTML, CSS, and Jav
 
 ---
 
+## Live Preview 
+[Preview Link](https://dark-mode-toggle-rust.vercel.app/)
+
+---
+
 ## 📸 Screenshots
 ### 🌞 Light Mode
 
