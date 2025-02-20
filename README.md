@@ -43,7 +43,8 @@ This project demonstrates a **smooth Dark Mode toggle** using HTML, CSS, and Jav
 
 ## 📸 Screenshots
 ### 🌞 Light Mode
-![Light Mode Screenshot](./screenshots/light-mode.png)
+
+![dark1](https://github.com/user-attachments/assets/51527fdd-1059-4793-99ca-4ef2b7903c62)
 
 ### 🌙 Dark Mode
 ![Dark Mode Screenshot](./screenshots/dark-mode.png)
